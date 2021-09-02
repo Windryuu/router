@@ -1,0 +1,17 @@
+{
+    "name": "formationpeweb/poo-router",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Windryuu",
+            "email": "brayan.jean@laposte.net"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^5.3"
+    }
+}
